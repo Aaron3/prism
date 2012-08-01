@@ -27,7 +27,8 @@ var components = {
 		'markup': 'Markup',
 		'css': 'CSS',
 		'php': 'PHP',
-		'javascript': 'JavaScript'
+		'javascript': 'JavaScript',
+		'generic' : 'Generic'
 	},
 	plugins: {
 		meta: {
