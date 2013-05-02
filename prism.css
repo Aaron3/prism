@@ -104,7 +104,3 @@ pre[class*="language-"] {
 .token.entity {
 	cursor: help;
 }
-
-.token.deliminator {
-	font-weight:bold;
-}
